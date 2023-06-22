@@ -1,0 +1,3 @@
+Autorization: Correct
+File diagnostic: Correct
+Virus detecter: No warning
